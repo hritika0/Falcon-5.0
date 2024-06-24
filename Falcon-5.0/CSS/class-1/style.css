@@ -1,0 +1,28 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: "Dancing Script", cursive;
+    background-color: magenta;
+}
+body{
+    height: 100vh;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+img{
+    border: 5px solid white;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+button a{
+    background-color: blueviolet;
+    text-decoration: none;
+}
